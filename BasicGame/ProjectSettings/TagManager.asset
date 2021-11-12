@@ -50,6 +50,9 @@ TagManager:
   - name: character
     uniqueID: 1122109917
     locked: 0
+  - name: collect
+    uniqueID: 1790894539
+    locked: 0
   - name: foreground
     uniqueID: 2602947253
     locked: 0
